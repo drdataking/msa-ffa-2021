@@ -8,6 +8,8 @@ Jan to April, 2021
 
 This course explores how financial statement data and non-financial metrics can be linked to business strategy and future enterprise performance. Students will use analytics techniques acquired from prior courses to explore how data is used to assess what drives financial performance and to forecast future financial scenarios. By the end of this course, students will understand how financial data and non-financial data interact to forecast events, detect financial discrepancies and frauds, predict corporate default, optimize operations, and determine business strategy. Some cognitive analytics methods such as text analytics, neural networks and deep learning will also be introduced. This course has been designed to equip students with analytics mind-set to create strategy and make better business decisions.
 
+R programming skill is a must and Python is optional. The instructor will provide code in R only. Students are required to install R on their laptops. R is a free statistical language widely used by data science professionals. Students are recommended to install RStudio on their computers, a free R editor.
+
 ## Course Learning Outcomes
 
 Students are expected to demonstrate the following technical competencies upon successful completion of this course:

@@ -55,5 +55,5 @@ Class sessions are of three-hour duration per session and twelve sessions in tot
 | 11 | [Neural Networks and Deep Learning](https://github.com/drdataking/msa-ffa-2021/blob/main/notes/Session_11s_opt.pdf) |
 | 12 | [TEAM PROJECT PRESENTATIONS]() |
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=drdataking.msa-ffa-2021&left_color=green&right_color=red)
+[![HitCount](https://hits.dwyl.com/drdataking/msa-ffa-2021.svg?style=flat-square)](http://hits.dwyl.com/drdataking/msa-ffa-2021)
 
